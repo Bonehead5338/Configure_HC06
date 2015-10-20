@@ -3,9 +3,9 @@ Arduino sketch to configure HC-06 bluetooth module
 
 Setup 3 parameters:
 
-BT_NAME (20 Characters max String)
-BT_PIN (4 digit numeric pin)
-BT_BAUD (from valid values listed above)
+* **BT_NAME** (20 Characters max String)
+* **BT_PIN** (4 digit numeric pin)
+* **BT_BAUD** (from valid values listed above)
 
 Sketch will search for connected devices and configure as per above parameters
 
