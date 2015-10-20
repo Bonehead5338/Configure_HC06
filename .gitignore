@@ -1,5 +1,4 @@
+__vm/
 *.sln
 *.vcxproj
 *.filters
-*.h
-*.xml
